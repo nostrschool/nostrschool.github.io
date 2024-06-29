@@ -1,0 +1,1 @@
+# nostrschool.github.io
