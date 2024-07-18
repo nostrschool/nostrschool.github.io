@@ -1,70 +1,55 @@
-# nostrschool.github.io
+# nostrschool
 
+# Introduction
 
-**Introduction**
+In response to the evolving educational landscape in New Zealand, Nostr School emerges as a trailblazing institution embracing decentralisation, autonomy, and community partnership. Inspired by the innovative Nostr protocol, our vision is to redefine traditional educational paradigms and cultivate an environment where creativity, critical thinking, and personal growth thrive.
 
-In response to the evolving landscape of education in New Zealand, Nostr School emerges as a pioneering institution that embraces decentralisation, autonomy, and community partnership. Inspired by the principles of the Nostr protocol, our vision is to redefine traditional educational paradigms and cultivate an environment where creativity, critical thinking, and personal growth thrive.
-
-**Vision and Mission**
+## Vision and Mission
 
 At Nostr School, our vision is to foster a dynamic learning environment where students are empowered to explore their potential without the constraints of traditional educational structures. Our mission is to provide a platform where creativity, critical thinking, and personal growth thrive, guided by a curriculum that adapts to the needs of our diverse student body.
 
-**Core Principles**
+## Core Principles
 
-1. **Decentralisation**: Nostr School operates on a decentralised model, ensuring resilience against disruptions and fostering a robust educational ecosystem that is not reliant on centralised control.
-    
-2. **Autonomy**: Teachers at Nostr School enjoy unprecedented autonomy in curriculum design and teaching methodologies, enabling them to tailor educational experiences that cater to individual student needs.
-    
-3. **Transparency and Verifiability**: Built on public-key cryptography, Nostr School ensures transparent communication and authentication, instilling trust among students, parents, and educators.
-    
-4. **Community Engagement**: We believe in strong partnerships with our local community, where stakeholders actively contribute to shaping the educational journey and enhancing student outcomes.
-    
+- **Decentralisation:** Nostr School operates on a decentralised model, ensuring resilience against disruptions and fostering a robust educational ecosystem independent of centralised control.
 
-**Educational Approach**
+- **Autonomy:** Teachers at Nostr School enjoy unprecedented autonomy in curriculum design and teaching methodologies, enabling tailored educational experiences to meet individual student needs.
 
-At the heart of Nostr School’s educational approach lies a commitment to personalised learning and holistic development. By embracing the flexibility of the Nostr protocol, we offer:
+- **Transparency and Verifiability:** Leveraging public-key cryptography, Nostr School ensures transparent communication and authentication, building trust among students, parents, and educators.
 
-- **Customised Curriculum**: Nostr School does not adhere rigidly to national curriculum frameworks. Instead, we empower educators to innovate and create tailored learning experiences that nurture diverse talents and interests.
-    
-- **Experiential Learning**: Students engage in hands-on, project-based learning that encourages creativity, collaboration, and real-world problem-solving skills.
-    
-- **Digital Literacy**: Through integrated technology and digital literacy programmes, students develop essential skills for the digital age, preparing them for future academic and professional endeavours.
-    
+- **Community Engagement:** Strong partnerships with the local community empower stakeholders to shape the educational journey and enhance student outcomes collaboratively.
 
-**Unique Features**
+## Educational Approach
 
-- **We Have Land to Build On**: Nostr School has secured a dedicated site for construction, ensuring a purpose-built facility designed to support modern educational practices.
-    
-- **Qualified Teachers Ready to Go**: Our team of educators includes highly qualified professionals committed to fostering a stimulating learning environment conducive to academic excellence and personal growth.
-    
-- **Curriculum - OpenSource Ready to Go**: Nostr School utilises an open-source curriculum that empowers teachers to adapt and innovate, ensuring relevance and responsiveness to evolving educational needs.
-    
-- **Nostr-Based Curriculum**: Students at Nostr School learn about and engage with the Nostr protocol as part of their curriculum. This includes understanding its principles, applications in decentralised networks, and implications for digital citizenship.
-    
-- **Staff and Students Use the Protocol**: Nostr School integrates the use of the Nostr protocol into daily activities, fostering a practical understanding of decentralised technologies and promoting digital literacy among staff and students.
-    
-- **Digital Portfolios on Nostr**: Each student maintains a digital portfolio on the Nostr platform, showcasing their academic achievements, projects, and personal growth over time. This portfolio serves as a comprehensive record of their educational journey and development.
-    
-- **Students Learning About Data Ownership**: As part of digital literacy education, students at Nostr School learn about data ownership, privacy rights, and ethical considerations in digital interactions. This empowers them to navigate the digital landscape responsibly and securely.
-    
+At the heart of Nostr School’s approach lies a commitment to personalised learning and holistic development:
 
-**Admissions and Governance**
+- **AI-Personalised Learning:** Students actively engage in creating their AI tools using a node-based approach, fostering innovation and technological fluency.
 
-- **Open Enrollment**: Nostr School welcomes students from all backgrounds and abilities, promoting inclusivity and diversity within our educational community.
-    
-- **Community Governance**: While respecting the principles of decentralised governance, Nostr School maintains transparency through open communication channels with parents and the broader community.
-    
-- **Accountability**: Performance metrics are transparently communicated, and the school operates with accountability to both educational standards and community expectations.
-    
+- **Student Ownership:** Emphasising data privacy and security, students maintain control over their learning and personal data, promoting responsible digital citizenship.
 
-**Facilities and Support**
+- **Problem-Based Learning:** Core to our curriculum, problem-based learning cultivates critical thinking and practical skills through real-world challenges.
 
-Nostr School provides state-of-the-art facilities conducive to modern learning environments. We prioritise student well-being and offer comprehensive support services to ensure every student’s academic and personal success.
+- **Physical Space:** Nostr School prioritises state-of-the-art facilities designed to support modern learning environments, ensuring student well-being and academic success.
 
-**Conclusion**
+## Unique Features
 
-In embracing the principles of the Nostr protocol, Nostr School stands at the forefront of educational innovation in New Zealand. By challenging traditional norms and championing decentralisation, autonomy, and community collaboration, we aim to empower the next generation of global citizens and leaders.
+- **Open-Source Curriculum:** Utilising a Git-based system (Gitea/GitHub/GitLab) under GPLv3 Copyleft Licence, our curriculum encourages collaboration and innovation among educators worldwide.
 
-For more information and to join us on this transformative educational journey, visit [Nostr School Website] or contact us at [Contact Information].
+- **Nostr for Digital Portfolio + ID:** Each student maintains a digital portfolio and ID on the Nostr platform, showcasing their achievements and growth while ensuring data security and ownership.
 
-#nostrschool
+- **Starlink + Mesh Network (WiFi 7):** Cutting-edge infrastructure supports seamless connectivity and collaboration, enhancing learning experiences beyond traditional boundaries.
+
+- **Linux Standard:** Students choose their operating system/distribution, promoting digital literacy and customisation in technology use.
+
+## Admissions and Governance
+
+- **Open Enrollment:** Nostr School promotes inclusivity and diversity by welcoming students from all backgrounds and abilities.
+
+- **Community Governance:** Upholding principles of decentralised governance, we ensure transparency and accountability through open communication with parents and the community.
+
+## Facilities and Support
+
+- **State-of-the-Art Facilities:** Designed to foster modern learning environments, Nostr School prioritises student well-being and provides comprehensive support services for academic and personal success.
+
+# Conclusion
+
+Embracing the principles of the Nostr protocol, Nostr School leads educational innovation in New Zealand. By challenging norms and championing decentralisation, autonomy, and community collaboration, we empower future global citizens and leaders.
